@@ -1,0 +1,16 @@
+embeddings {
+  tensor_name: "embedM_0"
+  metadata_path: "meta0.tsv"
+}
+embeddings {
+  tensor_name: "embedM_1"
+  metadata_path: "meta1.tsv"
+}
+embeddings {
+  tensor_name: "embedM_2"
+  metadata_path: "meta2.tsv"
+}
+embeddings {
+  tensor_name: "embedM_3"
+  metadata_path: "meta3.tsv"
+}
